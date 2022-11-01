@@ -1,0 +1,16 @@
+C:\Users\Nikityara\Desktop\TXT_redactor\TXT_redactor\bin\Debug\TXT_redactor.exe.config
+C:\Users\Nikityara\Desktop\TXT_redactor\TXT_redactor\bin\Debug\TXT_redactor.exe
+C:\Users\Nikityara\Desktop\TXT_redactor\TXT_redactor\bin\Debug\TXT_redactor.pdb
+C:\Users\Nikityara\Desktop\TXT_redactor\TXT_redactor\obj\Debug\TXT_redactor.csproj.AssemblyReference.cache
+C:\Users\Nikityara\Desktop\TXT_redactor\TXT_redactor\obj\Debug\TXT_redactor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikityara\Desktop\TXT_redactor\TXT_redactor\obj\Debug\MainWindow.g.cs
+C:\Users\Nikityara\Desktop\TXT_redactor\TXT_redactor\obj\Debug\App.g.cs
+C:\Users\Nikityara\Desktop\TXT_redactor\TXT_redactor\obj\Debug\TXT_redactor_MarkupCompile.cache
+C:\Users\Nikityara\Desktop\TXT_redactor\TXT_redactor\obj\Debug\TXT_redactor_MarkupCompile.lref
+C:\Users\Nikityara\Desktop\TXT_redactor\TXT_redactor\obj\Debug\MainWindow.baml
+C:\Users\Nikityara\Desktop\TXT_redactor\TXT_redactor\obj\Debug\TXT_redactor.g.resources
+C:\Users\Nikityara\Desktop\TXT_redactor\TXT_redactor\obj\Debug\TXT_redactor.Properties.Resources.resources
+C:\Users\Nikityara\Desktop\TXT_redactor\TXT_redactor\obj\Debug\TXT_redactor.csproj.GenerateResource.cache
+C:\Users\Nikityara\Desktop\TXT_redactor\TXT_redactor\obj\Debug\TXT_redactor.csproj.CoreCompileInputs.cache
+C:\Users\Nikityara\Desktop\TXT_redactor\TXT_redactor\obj\Debug\TXT_redactor.exe
+C:\Users\Nikityara\Desktop\TXT_redactor\TXT_redactor\obj\Debug\TXT_redactor.pdb
